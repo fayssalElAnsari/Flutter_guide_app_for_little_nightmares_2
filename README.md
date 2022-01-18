@@ -19,7 +19,7 @@ This repository contains a flutter guide app template, it is a non-complete but 
 * [x] Assets management such as `Fonts`, `Images` and `Audio Files` 
 
 # Getting Started
-## prerequisites
+## Prerequisites
 * <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Android_Studio_Icon_%282014-2019%29.svg/1200px-Android_Studio_Icon_%282014-2019%29.svg.png" width="25">  Android Studio - The official integrated development environment (IDE) for Android application development.
 * <img src="https://cdn.iconscout.com/icon/free/png-256/flutter-3629369-3032362.png" width="25">  Flutter - Google's free and open-source UI framework for creating native mobile applications
 
