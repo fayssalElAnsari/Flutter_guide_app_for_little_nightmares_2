@@ -1,6 +1,6 @@
 # Guide for little nightmares 2
 ## Video Presentation
-...
+Uploading Little_nightmares_2_flutter_guide_app.Fayssal.ELANSARI.mp4…
 
 ## Description
 This repository contains a flutter guide app template, it is a non-complete but functional design. The guide app has a `walkthrough` entry and a `terms of use and privacy` entry on the home screen. When the app is launched for the first time the user is redirected automatically to the `walkthrough` screen which contains an entry for every `chapter` or `level` of the famous game `little nightmares 2`. The data is stored locally on the application so there is no obligation to have internet access. There are `interstitial ads` and `native ads` once every two cards. Each card contains a picture of the current game segment and a small description.
@@ -23,13 +23,13 @@ This repository contains a flutter guide app template, it is a non-complete but 
 * <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Android_Studio_Icon_%282014-2019%29.svg/1200px-Android_Studio_Icon_%282014-2019%29.svg.png" width="25">  Android Studio - The official integrated development environment (IDE) for Android application development.
 * <img src="https://cdn.iconscout.com/icon/free/png-256/flutter-3629369-3032362.png" width="25">  Flutter - Google's free and open-source UI framework for creating native mobile applications
 
-## How To
+## How To Use This Repo
 * Clone the repository with:
 ```console
 fayssal@mypc:~$ git clone https://github.com/fayssalElAnsari/guide_for_little_nightmares_2.git
 ```
 * Import the project into `Android Studio`
-* Start editing the files for your game of choice :D 
+* Start editing the files for own your game/app of choice :D 
 
 # Built With
 * <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Android_Studio_Icon_%282014-2019%29.svg/1200px-Android_Studio_Icon_%282014-2019%29.svg.png" width="25">  Android Studio - The official integrated development environment (IDE) for Android application development.
