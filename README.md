@@ -1,6 +1,6 @@
 # Guide for little nightmares 2
 ## Video Presentation
-Uploading Little_nightmares_2_flutter_guide_app.Fayssal.ELANSARI.mp4…
+https://user-images.githubusercontent.com/15277004/150035415-fca774d4-c717-4798-8f1f-2b4fe9d08e98.mp4
 
 ## Description
 This repository contains a flutter guide app template, it is a non-complete but functional design. The guide app has a `walkthrough` entry and a `terms of use and privacy` entry on the home screen. When the app is launched for the first time the user is redirected automatically to the `walkthrough` screen which contains an entry for every `chapter` or `level` of the famous game `little nightmares 2`. The data is stored locally on the application so there is no obligation to have internet access. There are `interstitial ads` and `native ads` once every two cards. Each card contains a picture of the current game segment and a small description.
