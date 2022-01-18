@@ -26,10 +26,12 @@ This repository contains a flutter guide app template, it is a non-complete but 
 ## How To Use This Repo
 * Clone the repository with:
 ```console
-fayssal@mypc:~$ git clone https://github.com/fayssalElAnsari/guide_for_little_nightmares_2.git
+fayssal@mypc:~$ git clone https://github.com/fayssalElAnsari/Flutter_guide_app_for_little_nightmares_2.git
 ```
 * Import the project into `Android Studio`
 * Start editing the files for own your game/app of choice :D 
+* Put your `google-services.json` file in the project
+* Export your `android/IOS` app
 
 # Built With
 * <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Android_Studio_Icon_%282014-2019%29.svg/1200px-Android_Studio_Icon_%282014-2019%29.svg.png" width="25">  Android Studio - The official integrated development environment (IDE) for Android application development.
